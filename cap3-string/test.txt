@@ -1,0 +1,2 @@
+-- Il numero di parole del file e' 17 --
+-- Il numero di parole uniche del file e' 10 -- 
